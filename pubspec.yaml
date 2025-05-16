@@ -1,0 +1,17 @@
+name: auto_wrap_ellipsis_text
+description: "A smart text widget for pixel-perfect wrapping and truncation in Flutter."
+version: 0.0.1
+repository: https://github.com/imzii/auto_wrap_ellipsis_text
+
+environment:
+  sdk: ^3.6.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
